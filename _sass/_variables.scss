@@ -1,4 +1,6 @@
-
+// FONT IMPORTS
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,700);
 //
 // VARIABLES
 //
@@ -16,6 +18,8 @@ $white: #fff;
 $lightAssGrey: #f8f8f8;
 
 // Font stacks
+$quicksand: 'Quicksand',Arial, sans-serif;
+$EBGamond: 'EB Garamond',Georgia, serif;;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
