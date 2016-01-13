@@ -19,22 +19,20 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $EBGamond;
+  font: 17px/1.4 $openSans;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 950px;
+  max-width: 600px;
   padding: 0 10px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $quicksand;
+  font-family: $merriweather;
   color: $darkerGray;
-  font-weight: 400;
-
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -43,7 +41,9 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.4;
   }
 }
-
+.blagImage{
+  width:100%;
+}
 h1 {
   font-size: 30px;
   a {
@@ -116,8 +116,9 @@ img {
 }
 
 .date {
-  font-style: italic;
+  text-transform: uppercase;
   color: $gray;
+  padding-top: 10px;
 }
 
 // Specify the color of the selection
@@ -212,10 +213,11 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
-
+  margin-top: 26px; // @TODO: Vertically middle align
+  font-family: $openSans;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -227,7 +229,7 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: bold;
     letter-spacing: 1px;
 
     @include mobile {
