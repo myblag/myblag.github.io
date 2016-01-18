@@ -1,6 +1,6 @@
 On the 16th I attended my first conference, TEDxHansraj. Wait let me start from the beginning. I stumbled upon the event on the last day of registration, I didn't think twice about it and I just registered. A day later I got a mail saying that I got selected and that I needed to pay to attend(Nothing too big, it was just 1000₹). I don't have a card or PayPal yet, so I chose to pay at their dropoff location.
 
-I gave the guy who's contact details were on the email a call and he told me to meet him at the drop off location(the Green Park metro station)  . It was a pretty shady exchange of cash, he got off the metro wearing a hoodie and he asked if I was the guy, I gave him my name and the cash and both of us __parted our ways__. On my ride back a lot of things flew through my head because I didn't get any bill stating that I've paid and the only exchange of words that I had with him were:
+I gave the guy who's contact details were on the email a call and he told me to meet him at the drop off location(the Green Park metro station)  . It was a pretty shady exchange of cash, he got off the metro wearing a hoodie and he asked if I was the guy, I gave him my name and the cash and both of us parted our ways. On my ride back a lot of things flew through my head because I didn't get any bill stating that I've paid and the only exchange of words that I had with him were:
 
 >him: You the guy?
 
