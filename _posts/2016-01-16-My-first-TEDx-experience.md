@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First TEDx experience
+title: My First TEDx Experience
 date:   2016-01-16 18:18:00
 ---
 
